@@ -1,13 +1,5 @@
 <?php
-	/*
-	Telegram.me/OneProgrammer
-	Telegram.me/SpyGuard
-	Github.com/mehrab-wj/SimplePHPBot
-	----[ Lotfan Copy Right Ro Rayat Konid <3 ]----
-	############################################################################################
-	# if you need Help for develop this source , You Can Send Message To Me With @SpyGuard_BOT #
-	############################################################################################
-	*/
+
 	define('API_KEY','[*BOTTOKEN*]');
 	//----######------
 	
